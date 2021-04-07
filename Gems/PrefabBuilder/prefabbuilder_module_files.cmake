@@ -10,6 +10,5 @@
 #
 
 set(FILES
-    PrefabBuilderComponent.h
-    PrefabBuilderComponent.cpp
+    PrefabBuilderModule.cpp
 )
