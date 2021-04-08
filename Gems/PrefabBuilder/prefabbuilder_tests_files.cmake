@@ -10,6 +10,6 @@
 #
 
 set(FILES
-    PrefabBuilderComponent.h
-    PrefabBuilderComponent.cpp
+    PrefabBuilderTests.h
+    PrefabBuilderTests.cpp
 )
